@@ -84,5 +84,5 @@
 <!-- activity graph heroku-app end -->
 
 <footer style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
-<p>&copy; 2024 Ekta Bharti. All rights reserved.</p>
+<p>&copy; 2024 shyam mishra. All rights reserved.</p>
 </footer>
