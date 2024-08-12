@@ -2,7 +2,7 @@
 )
 
 <h1 align="center">Hi 👋, I'm Shyam Mishra</h1>
-<h3 align="center">B.Tech CSE Student | Passionate about Editing, Programming, and web Development</h3>
+<h3 align="center">B.Tech CSE(AI&ML) Student | Passionate about Editing, Programming, and web Development</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
