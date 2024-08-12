@@ -1,4 +1,5 @@
-
+![logo](![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/97de5ce5-f6b6-400d-abc3-2e8cb7de4740)
+)
 
 <h1 align="center">Hi 👋, I'm Shyam Mishra</h1>
 <h3 align="center">B.Tech CSE Student | Passionate about Editing, Programming, and web Development</h3>
